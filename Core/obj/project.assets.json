@@ -7717,11 +7717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\fix\\ServiceProgram\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\FIX\\ServiceProgram\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\fix\\ServiceProgram\\Core\\Core.csproj",
+      "projectPath": "C:\\FIX\\ServiceProgram\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\tekni\\.nuget\\packages\\",
-      "outputPath": "C:\\fix\\ServiceProgram\\Core\\obj\\",
+      "outputPath": "C:\\FIX\\ServiceProgram\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tekni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7818,7 +7818,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

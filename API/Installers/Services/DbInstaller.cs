@@ -13,7 +13,7 @@ namespace API.Installers.Services
             services.AddDbContext<ServiceContext>(
                 o =>
                 {
-                    o.UseSqlServer(@"Server=FIX;Database=ServiceDB;User=sa;Password=b4rb4r0s;");
+                    o.UseSqlServer(@"Server=SERVER_NAME;Database=DB_NAME;User=USER;Password=PASSWORD;");
                 }, ServiceLifetime.Singleton
         );
     }

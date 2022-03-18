@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvoC3WfrZxmKmDLrFu4aXppogBegDR5+7eSr/dg+wS0majwDaKOJsTQr/5ftiDuu+9nPQP3maBafQLMniBTfJQ==",
+  "dgSpecHash": "EI5PRoHfOqrMbr1Vzfq/20Z3SSwcixrLMCqn65INKVWsNeyoDuTc1ey2h4TlibxY1hni4Bl45/XSkZgVcrzMNQ==",
   "success": true,
-  "projectFilePath": "C:\\fix\\ServiceProgram\\Core\\Core.csproj",
+  "projectFilePath": "C:\\FIX\\ServiceProgram\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tekni\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\tekni\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

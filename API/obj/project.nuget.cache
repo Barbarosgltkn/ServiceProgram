@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iwDSfd0oikyebTjQ1SVBrClTBhuFc/2jxYmUgTrehL9rtJGAmELN/s61a37v9nHKAxv2d8VzSDlVrAsZmPEvsA==",
+  "dgSpecHash": "xuo9Dmlj2uhx73AgdKC6Uv/pb0Ar00ZXbhtD9aaFPvLVjJOoGaGQ6rChnGS7NkyfkgsAd+zRhDX+sDCBaEBayg==",
   "success": true,
-  "projectFilePath": "C:\\fix\\ServiceProgram\\API\\API.csproj",
+  "projectFilePath": "C:\\FIX\\ServiceProgram\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tekni\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\tekni\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
